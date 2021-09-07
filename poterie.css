@@ -1,0 +1,79 @@
+body{
+   /* background-color: #072118; */
+   background-image: url("B (4).jpg");
+   background-repeat: no-repeat;
+   background-size: 100%;
+   
+}
+ul {
+    list-style-type: none;
+    margin-top: 50px;
+    margin-left: 290px;
+    text-align: center;
+    background-color:white;
+  }
+  
+  li {
+    float: left;
+      }
+  
+  li a {
+    display: flex;
+    color: rgb(170, 135, 39);
+    padding: 20px 30px;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 10px;
+  }
+  #ET{
+      position: absolute;
+      top: 240px;
+      right: 390px;
+      width: 60px;
+  }
+  #ET1{
+    position: absolute;
+    top: 370px;
+    left: 400px;
+    width: 60px;
+  }
+  /*#Back{
+    
+  }*/
+ /* #EA {
+     margin-bottom: -10px;
+      font-family:'Bell MT';
+      font-style: oblique 40deg;
+      font-size: 50px;
+      margin-top: 20px;
+  }*/
+  .menu li a span{
+    font-size: 25px;
+    font-family:'Bell MT';
+    margin-top: -10px;
+  }
+  #U{
+    color: rgb(170, 135, 39);
+    position: absolute;
+    right: 550px;
+    top: 220px;
+    font-size: 45px;
+  }
+  #P{
+    color: rgb(170, 135, 39);
+    position: absolute;
+    right: 350px;
+    top: 300px;
+    font-size: 45px;
+  }
+  #S{
+    position: absolute;
+    right: 580px;
+    top: 600px;
+    width: 30px; 
+  }
+  #italique{
+    font-family: "Bell MT";
+    font-size: 40px;
+
+  }
